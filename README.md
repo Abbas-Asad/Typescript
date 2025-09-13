@@ -29,7 +29,7 @@ node filename.js
 ## References & Cheat Sheets 
 
 - **[Official Docs](https://www.typescriptlang.org/docs/)** - Complete documentation
-- **[Cheatsheet PDF](https://devhints.io/typescript)** - Quick reference guide
+- **[Cheatsheet PDF](https://github.com/Abbas-Asad/Typescript/blob/main/ts-cheatsheet.pdf)** - Quick reference guide
 - **[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)** - Comprehensive TypeScript guide
 - **[TypeScript Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)** - Built-in utility types  
 - **[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** - Type definitions for JavaScript libraries
