@@ -1,4 +1,4 @@
-# Run This in Your Terminal 
+<!-- # Run This in Your Terminal  -->
 ```bash 
-npx abbas_project13_advanced_currency_converter
+abbas_project13_advanced_currency_converter
 ```
