@@ -1,6 +1,6 @@
 # Learn TypeScript 📚
 
-<!-- A collection of useful TypeScript resources, tools, and links for developers. -->
+TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
 ## Quick Start
 
