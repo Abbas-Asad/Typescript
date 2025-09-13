@@ -1,2 +1,4 @@
-# js-image-generator
-This package allows easy generation of images using JavaScript.
+# Run This in Your Terminal 
+```bash 
+npx abbas_project13_advanced_currency_converter
+```
