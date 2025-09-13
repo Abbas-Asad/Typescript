@@ -1,4 +1,4 @@
 <!-- # Run This in Your Terminal  -->
 ```bash 
-abbas_project13_advanced_currency_converter
+abbas_project14_image_generator
 ```
