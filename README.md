@@ -15,7 +15,7 @@ npx tsc filename.ts
 node filename.js
 ```
 
-## 🛠️ Essential Tools & Playgrounds
+## Essential Tools & Playgrounds
 
 ### Online Playgrounds
 - **[TypeScript Playground](https://www.typescriptlang.org/play)** - Official TypeScript playground
@@ -28,7 +28,7 @@ node filename.js
 - **[TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)** - Organize imports and refactor code
 - **[TypeScript Auto Importer](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)** - Automatically find and add imports
 
-## 📖 Cheat Sheets & References
+## Cheat Sheets & References
 
 ### TypeScript Cheat Sheets
 - **[TypeScript Cheat Sheet](https://devhints.io/typescript)** - Quick reference guide
